@@ -19,19 +19,22 @@ Successfully match each falling ball with the triangle's correct tip. Every corr
 
 ### 🎮 In-Game
 
-![Gameplay Screenshot](./screenshots/gameplay.png)
+![Gameplay Screenshot](./screenshots/inGame.jpeg)
+![Gameplay Screenshot](./screenshots/gameOver.jpeg)
+![Gameplay Screenshot](./screenshots/gameOverFirebase.jpeg)
+![Gameplay Screenshot](./screenshots/firebase.jpeg)
 
 ### ☁️ Online High Score System (Firebase)
 
-![Firebase Screenshot](./screenshots/firebase.png)
+![Firebase Screenshot](./screenshots/firebase.jpeg)
 
 > _These images demonstrate the real-time functionality of the score system and the dynamic color-matching gameplay._
 
-## ⚙️ Built With
+## Built With
 - [Construct 3](https://www.construct.net/)
 - Firebase Realtime Database (for scores)
 
-## ✨ Features
+## Features
 - Simple mechanics  
 - Increasing difficulty  
 - Online high score system  
