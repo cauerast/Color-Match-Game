@@ -38,7 +38,7 @@ Successfully match each falling ball with the triangle's correct tip. Every corr
 - [Construct 3](https://www.construct.net/en)
 - Firebase Realtime Database (for scores)
 
-All visuals were designed by me to keep the focus on reflexes and clarity.
+All visuals were designed by cauerast.
 
 ## 📄 License
 This game was developed as part of a personal and educational project.  
