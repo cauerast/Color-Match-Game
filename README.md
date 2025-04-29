@@ -21,8 +21,7 @@ Successfully match each falling ball with the triangle's correct tip. Every corr
 
 ![Gameplay Screenshot](/Screenshots/inGame.jpeg)
 ![Gameplay Screenshot](/Screenshots/gameOver.jpeg)
-![Gameplay Screenshot](/screenshots/gameOverFirebase.jpeg)
-![Gameplay Screenshot](/Screenshots/firebase.jpeg)
+![Gameplay Screenshot](/Screenshots/gameOverFirebase.jpeg)
 
 ### ☁️ Online High Score System (Firebase)
 
