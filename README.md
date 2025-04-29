@@ -15,18 +15,6 @@ Players control a triangle with three colored tips: red, blue, and yellow. Color
 
 Successfully match each falling ball with the triangle's correct tip. Every correct match increases your score. The speed intensifies as the game progresses.
 
-## ⚙️ Built With
-- [Construct 3](https://www.construct.net/)
-- Firebase Realtime Database (for scores)
-
-## ✨ Features
-- Simple mechanics  
-- Increasing difficulty  
-- Online high score system  
-- Lightweight and fast to play  
-
-All visuals were designed by me to keep the focus on reflexes and clarity.
-
 ## 📸 Screenshots
 
 ### 🎮 In-Game
@@ -38,6 +26,18 @@ All visuals were designed by me to keep the focus on reflexes and clarity.
 ![Firebase Screenshot](./screenshots/firebase.png)
 
 > _These images demonstrate the real-time functionality of the score system and the dynamic color-matching gameplay._
+
+## ⚙️ Built With
+- [Construct 3](https://www.construct.net/)
+- Firebase Realtime Database (for scores)
+
+## ✨ Features
+- Simple mechanics  
+- Increasing difficulty  
+- Online high score system  
+- Lightweight and fast to play  
+
+All visuals were designed by me to keep the focus on reflexes and clarity.
 
 ## 📄 License
 This game was developed as part of a personal and educational project.  
