@@ -28,17 +28,15 @@ Successfully match each falling ball with the triangle's correct tip. Every corr
 
 ![Firebase Screenshot](/Screenshots/firebase.jpeg)
 
-> _These images demonstrate the real-time functionality of the score system and the dynamic color-matching gameplay._
-
-## Built With
-- [Construct 3](https://www.construct.net/en)
-- Firebase Realtime Database (for scores)
-
 ## Features
 - Simple mechanics  
 - Increasing difficulty  
 - Online high score system  
 - Lightweight and fast to play  
+
+## Built With
+- [Construct 3](https://www.construct.net/en)
+- Firebase Realtime Database (for scores)
 
 All visuals were designed by me to keep the focus on reflexes and clarity.
 
